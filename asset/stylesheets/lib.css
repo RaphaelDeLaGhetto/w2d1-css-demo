@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    background-color: darkblue;
+}
+
+#landing {
+    background-image: url(../images/grapes-of-wrath.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 2em;
+}
+
+p {
+    color: #ffffff;
+}
